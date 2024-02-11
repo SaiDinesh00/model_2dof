@@ -1,0 +1,9 @@
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/uninstall.dir
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/model_2dof_uninstall.dir
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/test.dir
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/edit_cache.dir
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/rebuild_cache.dir
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/list_install_components.dir
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/install.dir
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/install/local.dir
+/home/sai/ros_packages/model_2dof/build/CMakeFiles/install/strip.dir
